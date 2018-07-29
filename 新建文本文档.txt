@@ -4,5 +4,7 @@ http://www.365yg.com/a6582354085695980039/#mid=1596242456470541
 从XHR中获取到的视频原地址：
 http://v6-tt.ixigua.com/video/m/22080158596d8b2481181fd2bb5b9b15416115967640000679f8ec23ce9/?Expires=1532593706&AWSAccessKeyId=qh0h9TdcEMoS2oPj7aKX&Signature=MJr9MRUQZOxHa7CyNrX5W8pm7NM%3D
 
+http://v1-tt.ixigua.com/b8e9b5eb9e42620eb1ebb469b0c9b3b0/5b59a894/video/m/22080158596d8b2481181fd2bb5b9b15416115967640000679f8ec23ce9/
+
 开始尝试爬取该视频原件
 
